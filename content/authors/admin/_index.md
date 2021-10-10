@@ -6,12 +6,12 @@ title: Luca Ghislotti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computer Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Bergamo
+  url: https://www.unibg.it/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:ghislottiluca@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen

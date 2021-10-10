@@ -27,10 +27,10 @@ education:
   courses:
   - course: BSc in Computer Engineering
     institution: Università degli Studi di Bergamo
-    year: 2008
+    year: 2020
   - course: IT and Telecommunications 
     institution: Centro Studi Leonardo da Vinci, Bergamo
-    year: 2008
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,6 +57,6 @@ email: ""
 highlight_name: true
 ---
 
-Luca Ghislotti is a computer engineer and a computer enginnering student at the University of Bergamo.
+Luca Ghislotti is a computer engineer and a computer engineering student at the University of Bergamo.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1MNFqwn_JpcYUczaA6PaGAJxZuNb23UMX/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.

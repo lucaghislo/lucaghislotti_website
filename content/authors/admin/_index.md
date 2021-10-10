@@ -46,9 +46,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/luca.ghislo
-- icon: reddit
-  icon_pack: fas
-  link: https://www.reddit.com/user/luca_ghislo
 - icon: github
   icon_pack: fab
   link: https://github.com/lucaghislo

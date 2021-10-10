@@ -28,8 +28,8 @@ education:
   - course: BSc in Computer Engineering
     institution: Università degli Studi di Bergamo
     year: 2008
-  - course: IT and  
-    institution: Massachusetts Institute of Technology
+  - course: IT and Telecommunications 
+    institution: Centro Studi Leonardo da Vinci, Bergamo
     year: 2008
 
 # Social/Academic Networking

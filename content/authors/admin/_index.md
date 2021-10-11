@@ -21,6 +21,7 @@ interests:
 - Software development
 - Electronics design
 - Statistics
+- Linux
 
 # Education to show in About widget
 education:

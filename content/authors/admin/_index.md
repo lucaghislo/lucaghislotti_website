@@ -27,9 +27,9 @@ interests:
 education:
   courses:
   - course: BSc in Computer Engineering
-    institution: Università degli Studi di Bergamo
+    institution: Scuola di Ingegneria - Università degli Studi di Bergamo
     year: 2020
-  - course: IT and Telecommunications 
+  - course: IT Technical Institute Diploma 
     institution: Centro Studi Leonardo da Vinci, Bergamo
     year: 2017
 

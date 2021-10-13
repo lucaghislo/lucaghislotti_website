@@ -47,7 +47,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luca-ghislotti/
-  - icon: instagram
+- icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/luca.ghislo
 

@@ -41,15 +41,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ghislottiluca@gmail.com'
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/luca.ghislo
 - icon: github
   icon_pack: fab
   link: https://github.com/lucaghislo
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luca-ghislotti/
+  - icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/luca.ghislo
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

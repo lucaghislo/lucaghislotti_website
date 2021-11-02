@@ -28,7 +28,7 @@ education:
   courses:
   - course: Master's Degree in Computer Engineering
     institution: Scuola di Ingegneria - Università degli Studi di Bergamo
-    year: excpected september 2022
+    year: excpected 09/2022
   - course: BSc in Computer Engineering
     institution: Scuola di Ingegneria - Università degli Studi di Bergamo
     year: 2020

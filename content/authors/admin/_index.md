@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luca Ghislotti
+title: Luca Ghislottino
 
 # Is this the primary user of the site?
 superuser: true

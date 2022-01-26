@@ -22,6 +22,8 @@ interests:
 - Electronics design
 - Statistics
 - Linux
+- Audio & Hi-Fi
+- Film Photography
 
 # Education to show in About widget
 education:

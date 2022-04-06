@@ -64,7 +64,7 @@ highlight_name: true
 ---
 
 I'm a Computer Engineer and I am completing the final year of my master's degree in Computer Engineering at the University of Bergamo. <br><br> 
-I'm currently involved in the developings of the GAPS (*General AntiParticle Spectrometer*) project as my master thesis work.
+I'm currently involved in the developings of the {{< staticref "https://gaps1.astro.ucla.edu/gaps/" "newtab" >}}resumé{{< /staticref >}} General AntiParticle Spectrometer {{< /staticref >}} (GAPS) project as my master thesis work at the Microelectronics Laboratory of the University of Bergamo.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1MNFqwn_JpcYUczaA6PaGAJxZuNb23UMX/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
